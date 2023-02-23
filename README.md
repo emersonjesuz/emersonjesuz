@@ -1,9 +1,9 @@
 ## Olá, Me chamo Josiemerson 👋
 
-##  -- Uma breve Apresentação sobre mim:
+##  - Uma breve Apresentação sobre mim:
   sou apaixonado por tecnologia, jogar bola e ver aquele filme ou serie pra descansar!
-##  -- 🎓 Atualmente estou cursando na cubos Academy!
-##  -- 	📂 Estou aprendendo <!-- => javaScript | typeScript | Html | css | React.js | SQL | Git | GitHub -->
+##  - 🎓 Atualmente estou cursando na cubos Academy!
+##  - 	📂 Estou aprendendo <!-- => javaScript | typeScript | Html | css | React.js | SQL | Git | GitHub -->
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
           

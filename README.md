@@ -2,7 +2,7 @@
 
 Meu nome é josiemerson... tenho uma facilidade é desejo por aprender coisas novas, sou apaixonado por tecnologia e inteligencia social, meus hobbys são comer pão, joga um futebol com os amigos e ver  animes, filmes e series de vez quando. Meu objetivo pessoal é crescer proficionalmente e aprender o maximo com as pessoas ao meu redor !
   
-##  - 🎓 Atualmente cursando na cubos Academy!
+##   🎓 Atualmente cursando na cubos Academy!
 
 cubos academy, é uma empresa focada na proficionalizacão em desenvolvimento de software!
 

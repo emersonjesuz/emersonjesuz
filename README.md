@@ -1,14 +1,20 @@
-## Olá, Me chamo Josiemerson 👋
+## Quem eu sou ?
 
-##  - Uma breve Apresentação sobre mim:
-  sou apaixonado por tecnologia, jogar bola e ver aquele filme ou serie pra descansar!
-##  - 🎓 Atualmente estou cursando na cubos Academy!
+Meu nome é josiemerson... tenho uma facilidade é desejo por aprender coisas novas, sou apaixonado por tecnologia e inteligencia social, meus hobbys são comer pão, joga um futebol com os amigos e ver  animes, filmes e series de vez quando. Meu objetivo pessoal é crescer proficionalmente e aprender o maximo com as pessoas ao meu redor !
+  
+##  - 🎓 Atualmente cursando na cubos Academy!
 
- => javaScript | typeScript | Html | css | Node.js | React.js | API-Rest|  SQL | Git | GitHub
+cubos academy, é uma empresa focada na proficionalizacão em desenvolvimento de software!
+
+Na cubos apredemos como  desenvolver nossas SoftSkill e HardSkill, com o intuido de nos torna melhor proficional possivel !
+
+algumas das coisas que apredemos :
+
+ javaScript | typeScript | Html | css | Node.js | React.js | API-Rest|  SQL | Git | GitHub
  
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" />
           
-## Contatos:
+## Links para contatos:
 
 <div>
 <a href = "josiemerson2013@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>

@@ -1,6 +1,6 @@
 ## Quem eu sou ?
 
-Meu nome é josiemerson... tenho uma facilidade e desejo por aprender coisas novas, sou apaixonado por tecnologia e inteligencia social, meus hobbys são comer pão, joga um futebol com os amigos e ver  animes, filmes e series de vez quando. Meu objetivo pessoal é crescer proficionalmente e aprender o maximo com as pessoas ao meu redor !
+Meu nome é Josiemerson... Tenho uma facilidade e desejo por aprender coisas novas, sou apaixonado por tecnologia e inteligência social, meus hobbys são comer pão, joga um futebol com os amigos e ver  animes, filmes e series. Meu objetivo pessoal é crescer profissionalmente e aprender o máximo com as pessoas ao meu redor!
   
 
  

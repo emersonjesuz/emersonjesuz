@@ -1,6 +1,6 @@
 ## Quem eu sou ?
 
-Olá, meu nome é Josiemerson Teixeira! Sou um desenvolvedor Fullstack em formação, com uma paixão enorme por tecnologia e inteligência social. Tenho uma facilidade e desejo por aprender coisas novas e me adaptar rapidamente a diferentes contextos. 
+Olá, meu nome é Josiemerson Teixeira! Sou um desenvolvedor Fullstack, com uma paixão enorme por tecnologia. Tenho uma facilidade e desejo por aprender coisas novas e me adaptar rapidamente a diferentes contextos. 
 
 ### Interesses e Hobbies
 - Apaixonado por **tecnologia** e **desenvolvimento de software**

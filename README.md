@@ -34,6 +34,6 @@ Meu objetivo pessoal é crescer profissionalmente, aprender o máximo com as pes
 </div>
 
 ## Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emersonjesusuz&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonjesusuz&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emersonjesuz&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonjesuz&layout=compact&theme=dark)
 

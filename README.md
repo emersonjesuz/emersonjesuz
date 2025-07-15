@@ -34,7 +34,7 @@ Crescer profissionalmente, trocar conhecimento com pessoas incríveis e contribu
   <a href="https://www.linkedin.com/in/josiemerson-teixeira-bb6422255/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
-  <a href="https://github.com/emersonjesusuz" target="_blank">
+  <a href="https://github.com/emersonjesuz" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
   </a>
 </div>
@@ -43,5 +43,5 @@ Crescer profissionalmente, trocar conhecimento com pessoas incríveis e contribu
 
 ## 📊 Estatísticas do GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emersonjesusuz&show_icons=true&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonjesusuz&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=emersonjesuz&show_icons=true&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emersonjesuz&layout=compact&theme=dark)

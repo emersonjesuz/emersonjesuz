@@ -30,7 +30,7 @@ Crescer profissionalmente, compartilhar conhecimento e contribuir para projetos 
 </div>  
 
 🔹 **Front-end:** React, Next.js, Vue.js, Tailwind CSS, Sass  
-🔹 **Back-end:** Node.js, Express, NestJS, Prisma, Knex  
+🔹 **Back-end:** Java, Spring-boot, Node.js, Express, NestJS, Prisma, Knex  
 🔹 **Banco de dados:** PostgreSQL, MongoDB  
 🔹 **DevOps & Outros:** Docker, Git, JWT, APIs REST, Microserviços, Kafka, RabbitMQ  
 
